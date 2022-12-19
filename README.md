@@ -9,19 +9,26 @@
   </h2>
   <h4 align="center">Interface developed with HTML, CSS e JavaScript</h4>
   <p align="center">
-  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos-origamid?color=yellow">
-  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos-origamid?color=white">
+  <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=yellow">
+  <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=white">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/larissayasmim/animais-fantasticos?color=yellow">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=yellow">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/animais-fantasticos-origamid?color=white">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/larissayasmim/animais-fantasticos?color=white">
 </p>
 <br>
 <br>
 
-## :gem: &nbsp;&nbsp; Features
-- Asks the user for a value
-- Prints the user's input value in coins<br>(how much of each coin and the total amount of coins needed)
-- Numbers less than 1 are considered invalid
-- When invalid input, it asks the user for a number until a value considered valid is entered
+<br>
+<h2> <img width="22" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1666394248/bikraft/iconmonstr-marketing-4-240_3_t1cxqk.png"> &nbsp;Demonstration </h2>
+<p font-color="red"></p>
+<br>
+
+## :scroll:&nbsp;Features
+- Login
+- Accordion menu
+- Slide
+- Tooltip
+- Responsiveness
 
 <br>
 

@@ -37,11 +37,11 @@
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp; Number less than 1
-<img align="center" height="auto" width="500" alt="Imprimindo o resultado" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665776686/Mario/cash/cash2_jr3qxf.png"/>
+<img align="center" height="auto" width="500" alt="Imprimindo o resultado" src=""/>
 <br>
 
 ## :moneybag: &nbsp; Execution
-<img align="center" height="auto" width="500" alt="Gif da execução do programa" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1665778363/Mario/cash/cashvideo_online-video-cutter.com_boj0xr.gif"/>
+<img align="center" height="auto" width="500" alt="Gif da execução do programa" src=""/>
 <br>
 
 ## :computer:  &nbsp; Technologies

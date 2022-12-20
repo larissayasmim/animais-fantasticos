@@ -36,19 +36,19 @@
 <img align="center" height="auto" width="500" alt="Login" src=""/>
 <br>
 
-## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp; Number less than 1
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;
 <img align="center" height="auto" width="500" alt="Imprimindo o resultado" src=""/>
 <br>
 
-## :moneybag: &nbsp; Execution
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;
 <img align="center" height="auto" width="500" alt="Gif da execução do programa" src=""/>
 <br>
 
-## :computer:  &nbsp; Technologies
+## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp; Technologies
 This project was developed with the following technologies:
 
-- C
-- GitHub Codespace
+- 
+- 
 
 <br>
 

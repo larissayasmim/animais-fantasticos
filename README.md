@@ -33,31 +33,44 @@
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Home 
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576416/animais_fant%C3%A1sticos/animais-fantasticospageall_rijfit.png"/>>
+<p align="center">
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576416/animais_fant%C3%A1sticos/animais-fantasticospageall_rijfit.png"/>
+</p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Login
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576422/animais_fant%C3%A1sticos/animais-fantasticoslogin_oschwp.png"/>
+<p align="center">
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576422/animais_fant%C3%A1sticos/animais-fantasticoslogin_oschwp.png"/>
+</p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png">&nbsp;Accordion menu
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576430/animais_fant%C3%A1sticos/animais-fantasticosaccordionmenu_emoq4n.png"/>
+<p align="center">
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576430/animais_fant%C3%A1sticos/animais-fantasticosaccordionmenu_emoq4n.png"/>
+</p>
+
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Slide
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588310/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Grava%C3%A7aotela_online-video-cutter.com_1_aatfbc.gif"/>
+<p align="center">
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588310/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Grava%C3%A7aotela_online-video-cutter.com_1_aatfbc.gif"/>
+</p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Tooltip
-<img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588742/animais_fant%C3%A1sticos/Captura_de_tela_20221220_231049_lahrjr.png"/>
+<p align="center">
+<img height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588742/animais_fant%C3%A1sticos/Captura_de_tela_20221220_231049_lahrjr.png"/>
+</p>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Responsiveness
+<p align="center">
 <img align="center" height="auto" width="400" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671589623/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Google_Chrome_2022-12-20_23-17-39_online-video-cutter.com_1_qiirtj.gif"/>
+</p>
 
 <br>
 

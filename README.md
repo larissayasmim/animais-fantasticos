@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-  <img width="600px" alt="Animais Fantásticos Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671474815/animais_fant%C3%A1sticos/a377a31c5ce79ebbf0a85c9c0be0c78e_uh5vyz.png"/>
+  <img  height="auto" width="800px" alt="Animais Fantásticos Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671474815/animais_fant%C3%A1sticos/a377a31c5ce79ebbf0a85c9c0be0c78e_uh5vyz.png"/>
 </p>
 <br>
   <h2 align="center">

@@ -47,12 +47,12 @@
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Slide
-<img align="center" height="auto" width="800" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671576525/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Grava%C3%A7aotela_online-video-cutter.com_jrqyfu.gif"/>
+<img align="center" height="auto" width="300" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588310/animais_fant%C3%A1sticos/Animais_Fant%C3%A1sticos_-_Grava%C3%A7aotela_online-video-cutter.com_1_aatfbc.gif"/>
 
 <br>
 
 ## <img width="24" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671476636/animais_fant%C3%A1sticos/D_NQ_NP_611432-MLB46858985875_072021-V-removebg-preview_zqx00a.png"> &nbsp;Tooltip
-<img align="center" height="auto" width="300" alt="Página inicial do site" src=""/>
+<img align="center" height="auto" width="300" alt="Página inicial do site" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671588742/animais_fant%C3%A1sticos/Captura_de_tela_20221220_231049_lahrjr.png"/>
 
 <br>
 

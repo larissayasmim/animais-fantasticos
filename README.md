@@ -3,10 +3,10 @@
   <img  height="auto" width="800px" alt="Animais Fantásticos Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671591432/animais_fant%C3%A1sticos/c21b1f73ab615abf7173108413d4eaaf_bdrnev.png"/>
 </p>
 <br>
-  <h3 align="center">
+  <h2 align="center">
       Origamid course project
-<br>
   </h2>
+  
   <h5 align="center">Interface developed with HTML, CSS e JavaScript</h5>
   <p align="center">
   <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=yellow">

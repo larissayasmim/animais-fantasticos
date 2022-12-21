@@ -3,7 +3,7 @@
   <img  height="auto" width="800px" alt="Animais Fantásticos Título" src="https://res.cloudinary.com/dxijjbby3/image/upload/v1671591432/animais_fant%C3%A1sticos/c21b1f73ab615abf7173108413d4eaaf_bdrnev.png"/>
 </p>
 <br>
-  <h2 align="center">
+  <h3 align="center">
       Origamid course project
 <br>
   </h2>

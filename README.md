@@ -7,7 +7,7 @@
       Origamid course project
 <br>
   </h2>
-  <h4 align="center">Interface developed with HTML, CSS e JavaScript</h4>
+  <h5 align="center">Interface developed with HTML, CSS e JavaScript</h5>
   <p align="center">
   <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/animais-fantasticos?color=yellow">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/animais-fantasticos?color=white">
